@@ -1,0 +1,68 @@
+BasicInfo:
+  FirstName: (Julia) Danting
+  LastName: Chen
+
+Profile: |
+          <div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
+            <ul class="list-unstyled mb-0">
+              <li class="mb-0">Green Card holder</li>
+              <li class="mb-2">danting.chen.career@gmail</li>
+            </ul>
+          </div>
+
+Experience:
+  - Employer: Inpensa Inc.
+    Place: SaaS Enterprise Business Case Management and Portfolio Analytics startup
+    Positions:
+      - Title: Software Engineer | PL/SQL Developer
+        Date: Jan 2019 ~ Jun 2021
+        Details:
+          - Led the development and delivery of Inpensa BVM OnDemand Edition and boosted the sales pipeline by 50% with 200+ new customer signups in the first quarter
+          - Implemented an improved PL/SQL reporting framework, reducing the overall rendering time by 95% for several dashboards and reports through performance optimization
+          - Significantly improved customer satisfaction by building an automated data validation module which reduced the data import SLA from 3  days to 30 minutes
+
+      - Title: Programmer Analyst
+        Date: Jan 2016 ~ Apr 2017
+        Details:
+          - Delivered the self-servicing reporting feature for Inpensa product suites, helping enterprise customers reduce analyst headcounts by automating 90% of their quarterly financial reports generation
+          - Built the foundation for the custom reporting infrastructure and introduced new professional services generating 300k+ annual revenue
+          - Established an effective training framework for one-on-one, live group, and WebEx training sessions to boost the adoption rate
+
+  - Employer: Selected Projects at Inpensa
+    Positions:
+      - Title: Inpensa BVM OnDemand Edition
+        Date: Nov 2019 ~ Jun 2021
+        Details:
+          - Inpensa's first product targeting SMBs with a simplified and self-service onboarding process
+          - Led a team of 4 engineers and owned the product design, development, operation, and support
+          - Helped the company successfully enter the SMB market
+          - PL/SQL, Oracle 19c, Java, Spring Framework, Hibernate, JavaScript, React.js, jQuery, and Bootstrap
+      - Title: Predictable Analytics for Investment Planning
+        Date: Feb 2020 ~ May 2020
+        Details:
+          - Pilot project for a next-generation product utilizing Deep Learning algorithms
+          - Mentored a group of 6 interns
+          - Proved that Inpensa product suites could keep pace with the times
+          - TensorFlow, Django, Python, JavaScript, HTML, CSS, and Bootstrap
+      - Title: Cloud Dev Initiative
+        Date: Jan 2021 ~ Mar 2021
+        Details:
+          - Migration of local dev infrastructure into AWS cloud
+          - Owned the end-to-end database migration and participated in the overall planning efforts & CI/CD pipeline setup
+          - Met compliance requirements, improved productivity, and enabled remote work during the pandemic
+          - AWS IAM, AWS S3, AWS EC2, AWS RDS for Oracle 19c, AWS CodeCommit, and Jenkins
+
+Education:
+  - Course: M.A. of Economics
+    Place: University of San Francisco
+    #Date: 2009
+
+  - Course: Bachelor of Economics
+    Place: Peking University
+    #Date: 2007
+
+  - Course: Data Science Specialization (incl. 9 courses and a NLP project)
+    Place: Johns Hopkins University @ Coursera
+    #Date: 2017
+
+  - Course: AWS Certified Cloud Practitioner | Oracle SQL Certified Associate
